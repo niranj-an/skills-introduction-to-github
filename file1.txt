@@ -1,1 +1,2 @@
-file1.txt  - duplicate fiel from "my-first-branch"
+new file created 
+branched from "my-first-branch"
